@@ -153,7 +153,7 @@ The following features are planned but not yet implemented:
 
 # Author
 
-**Naren**  
+**Dharani Teja**  
 ECE Student  
 
 ### Interests:
