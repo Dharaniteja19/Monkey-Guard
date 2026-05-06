@@ -22,8 +22,7 @@ This project focuses on providing a **low-cost, scalable, and autonomous wildlif
 
 # System Architecture
 
-![System Architecture](<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/0a4d6e4f-b93b-40c3-aa81-905e06042b3a" />
-)
+<img width="1280" height="960" alt="components" src="https://github.com/user-attachments/assets/0040ba54-208b-49ef-abfe-7928d79d0699" />
 
 The system consists of the following components:
 
